@@ -1,0 +1,47 @@
+[
+    {
+        "name":"Apple",
+        "price":52225,
+        "company":"Apple"
+    }, {
+        "name":"Oppoa52",
+        "price":5225,
+        "company":"Mi"
+    }, {
+        "name":"Oppoa52",
+        "price":60025,
+        "company":"Apple"
+    }, {
+        "name":"Gshop",
+        "price":500025,
+        "company":"Mi"
+    }, {
+        "name":"Oppoa52",
+        "price":52500,
+        "company":"Apple"
+    }, {
+        "name":"Apple",
+        "price":5,
+        "company":"Apple"
+    }, {
+        "name":"Oppoa52",
+        "price":525842125,
+        "company":"Apple"
+    }, {
+        "name":"Mi",
+        "price":52855,
+        "company":"Apple"
+    }, {
+        "name":"Oppoa52",
+        "price":52,
+        "company":"Apple"
+    }, {
+        "name":"Oppoa52",
+        "price":25,
+        "company":"Apple"
+    }, {
+        "name":"Oppoa52",
+        "price":5825,
+        "company":"Apple"
+    }
+]
