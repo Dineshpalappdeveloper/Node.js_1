@@ -8,7 +8,7 @@ const registerUser = async (req, res) => {
   userModel.password = await bcrypt.hash(req.body.password, 10);
   try {
     const user = await UserModel.findOne({ email: req.body.email });
-    if (!user) {
+    if (user) {
       return res
         .status(400)
         .send({ message: "Email Already Exits ! Try to Login" });
